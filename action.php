@@ -12,7 +12,6 @@ $linkToIndexPage = "
  //   exit ("Год должен быть больше нуля! Пожалуйста, введите корректные данные! $linkToIndexPage");
 //}
 if (preg_match("/\\D/",$year) or $year ==0) {
-    // header('Location: /index.php');
     exit ("Пожалуйста, введите корректные данные $linkToIndexPage");
 }
 
