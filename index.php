@@ -13,13 +13,7 @@
             margin-top: -40px;
             margin-left: -75px;
         }
-
-
-
     </style>
-
-
-
     </head>
 <body>
 
